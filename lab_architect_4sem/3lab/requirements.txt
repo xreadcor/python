@@ -1,0 +1,6 @@
+flask
+psycopg2
+sqlalchemy
+requests
+sqlalchemy-utils
+APScheduler
