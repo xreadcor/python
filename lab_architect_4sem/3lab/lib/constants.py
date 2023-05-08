@@ -1,0 +1,5 @@
+PG_USER = 'postgres'
+PG_PASSWD = 'postgres'
+DB_NAME = 'currency_db'
+URL_PATTERN_DAILY = 'https://www.cnb.cz/en/financial_markets/foreign_exchange_market/exchange_rate_fixing/daily.txt'
+URL_PATTERN_YEAR = 'https://www.cnb.cz/en/financial_markets/foreign_exchange_market/exchange_rate_fixing/year.txt'
